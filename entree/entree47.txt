@@ -1,0 +1,3 @@
+ecrire(x);
+lire(y);
+ecrire(y);

@@ -1,0 +1,4 @@
+lire x; // Manque parenthèses
+ecrire(x+); // Expression invalide
+x=1; lire(); // Manque IDF dans lire
+y=2 ecrire(y); // Manque ;

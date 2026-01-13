@@ -1,0 +1,10 @@
+a = 1;
+b = 10;
+tanque (a * a) < b faire
+   ecrire(a);
+   ecrire(b);
+   a = a + 1;
+   b = b - 1;
+fait; // Pour a=4, (4*4) < 7 est faux (16 < 7)
+ecrire(a);
+ecrire(b);

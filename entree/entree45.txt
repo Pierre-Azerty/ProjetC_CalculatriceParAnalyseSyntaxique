@@ -1,0 +1,14 @@
+x = 5;
+z = 9;
+lire(y);
+if x > y then
+    y = x + y
+else
+    if y >= z then
+        y = y / z
+    else
+        y = y - 1
+fi        
+fi;
+ecrire(y);
+

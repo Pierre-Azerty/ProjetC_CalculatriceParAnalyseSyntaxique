@@ -1,0 +1,14 @@
+sommepos = 0;
+compteur = 0;
+nombrelu = 0;
+
+ecrire(1111);
+tanque compteur < 4 faire
+    lire(nombrelu);
+    if nombrelu > 0 then
+        sommepos = sommepos + nombrelu;
+    fi;
+    compteur = compteur + 1;
+fait;
+ecrire(sommepos);
+ecrire(9999);

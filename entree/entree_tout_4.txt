@@ -1,0 +1,15 @@
+a = 1;
+b = 0;
+c = 5;
+tanque c > 0 faire
+    a = a * 2;
+    if ((a / 4) * 4) == a then
+        b = b + a;
+    else
+        b = b - 1;
+    fi;
+    c = c - 1;
+    ecrire(a); ecrire(b); ecrire(c);
+fait;
+ecrire(a);
+ecrire(b);

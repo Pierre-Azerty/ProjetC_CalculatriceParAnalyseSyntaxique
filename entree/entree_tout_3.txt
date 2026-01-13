@@ -1,0 +1,20 @@
+x = 0;
+y = 0;
+seuil = 3;
+ecrire(x); ecrire(y); ecrire(seuil);
+
+tanque x < 5 faire
+    x = x + 1;
+    if ((x / 2) * 2) == x then
+        ecrire(100 + x);
+        y = 0;
+        tanque y < x faire
+            y = y + 1;
+            ecrire(x*10 + y);
+        fait;
+    else
+        ecrire(x);
+    fi;
+fait;
+ecrire(x);
+ecrire(y);

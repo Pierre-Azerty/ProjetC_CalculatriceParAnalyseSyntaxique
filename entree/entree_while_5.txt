@@ -1,0 +1,15 @@
+x = 0;
+y = 0;
+total = 0;
+tanque x < 2 faire
+    y = 0;
+    tanque y < 3 faire
+        total = total + 1;
+        ecrire(x);
+        ecrire(y);
+        ecrire(total);
+        y = y + 1;
+    fait;
+    x = x + 1;
+fait;
+ecrire(total);

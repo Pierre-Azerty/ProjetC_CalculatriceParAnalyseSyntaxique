@@ -1,0 +1,13 @@
+n = 5;
+i = 1;
+fact = 1;
+ecrire(0);
+ecrire(n);
+tanque i <= n faire
+   fact = fact * i;
+   ecrire(i);
+   ecrire(fact);
+   i = i + 1;
+fait;
+ecrire(fact);
+ecrire(-1);

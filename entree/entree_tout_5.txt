@@ -1,0 +1,32 @@
+position = 0;
+but = 10;
+pas = 0;
+obstacle = 7;
+bonus = 3;
+
+ecrire(position);
+tanque position < but faire
+    lire(pas);
+    if pas <= 0 then
+        ecrire(99);
+    else
+        position = position + pas;
+        ecrire(position);
+        if position == obstacle then
+            ecrire(88);
+            position = position - 2;
+            ecrire(position);
+        fi;
+        if position == bonus then
+             ecrire(77);
+             position = position + 1;
+             ecrire(position);
+        fi;
+        if position < 0 then
+           position = 0;
+        fi;
+
+    fi;
+    ecrire(position);
+fait;
+ecrire(111);

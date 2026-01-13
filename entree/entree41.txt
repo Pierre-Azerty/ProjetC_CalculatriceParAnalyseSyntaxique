@@ -1,0 +1,4 @@
+x = 5;
+lire (y);
+y = x + 1;
+ecrire (y * 2);

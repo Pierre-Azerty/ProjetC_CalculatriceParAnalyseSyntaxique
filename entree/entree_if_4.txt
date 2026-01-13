@@ -1,0 +1,6 @@
+val = 15;
+flag = 0;
+if val >= 10 then
+    flag = 1;
+fi;
+ecrire(flag);

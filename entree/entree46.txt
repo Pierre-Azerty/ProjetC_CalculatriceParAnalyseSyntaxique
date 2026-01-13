@@ -1,0 +1,4 @@
+lire(x);
+lire(y);
+lire(z);
+w = z + x * - y;

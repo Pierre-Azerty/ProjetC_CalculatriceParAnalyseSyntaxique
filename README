@@ -1,0 +1,22 @@
+Interpréteur Marius Mahaie & Pierre Médina
+
+Pour compiler notre interpréteur:
+
+Make puis ./interpreteur avec le fichier que vous souhaitez interpretez entree/entree44.txt
+
+
+->->->->->->->->->->->->->->->->->->->->->->->->->->->->->->->->->
+Exemple de compilation:
+Make 
+./interpreteur entree/entree44.txt
+<-<-<-<-<-<-<-<-<-<-<-<-<-<-<-<-<-<-<-<-<-<-<-<-<-<-<-<-<-<-<-<-<-
+
+
+Exemple qui seront compilez lors de la soutenance:
+
+entree48.txt
+entree49.txt
+entree50.txt
+entree_tout_5.txt
+
+Si vous souhaitez voir les résultats des exemples ci-dessus, ils sont sur le pdf, rendu avec le code !

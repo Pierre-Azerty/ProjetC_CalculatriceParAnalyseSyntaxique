@@ -1,0 +1,9 @@
+compteur = 5;
+limite = 5;
+resultat = 100;
+tanque compteur < limite faire
+    resultat = compteur;
+    compteur = compteur + 1;
+    ecrire(resultat);
+fait;
+ecrire(resultat);

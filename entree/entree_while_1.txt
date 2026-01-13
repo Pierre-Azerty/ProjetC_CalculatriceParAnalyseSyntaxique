@@ -1,0 +1,11 @@
+x = 5;
+y = 1;
+ecrire(x);
+ecrire(y);
+tanque x > 0 faire
+   y = y * x;
+   x = x - 1;
+   ecrire(x);
+   ecrire(y);
+fait;
+ecrire(y);

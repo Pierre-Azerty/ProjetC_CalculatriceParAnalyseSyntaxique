@@ -1,0 +1,11 @@
+a = 5;
+b = 10;
+resultat = 0;
+if a > b then
+    resultat = 1;
+    ecrire(resultat);
+else
+    resultat = 2;
+    ecrire(resultat);
+fi;
+ecrire(resultat);

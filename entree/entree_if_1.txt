@@ -1,0 +1,30 @@
+a = 10;
+b = 5;
+c = 0;
+
+ecrire(a);
+ecrire(b);
+
+if a > b then
+    c = a - b;
+    ecrire(111);
+else
+    c = b - a;
+    ecrire(222);
+fi;
+
+ecrire(c);
+
+if c == 5 then
+    a = 1;
+fi;
+
+ecrire(a);
+
+if c != 5 then
+   b = 99;
+else
+   b = -1;
+fi;
+
+ecrire(b);
